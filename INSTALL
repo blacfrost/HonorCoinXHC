@@ -1,0 +1,4 @@
+Building Honorcoin
+See doc/readme-qt.rst for instructions on building Honorcoin QT.
+
+See doc/build-*.txt for instructions on building honorcoind.
